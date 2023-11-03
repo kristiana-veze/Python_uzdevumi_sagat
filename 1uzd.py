@@ -9,16 +9,13 @@ Uzrakstiet programmu definējot klasi,lai veselu skaitli pārveidotu par romieš
 3) klase sastāv no komstruktora/destruktora un metodēm(iekšējās funkcijas).
 4) Kādas datu struktūras zinam?
       list (saraksts) a="" - tukšs saraksts
-      arry (masīvs) a=[]'
+      arry (masīvs) a=[]
       dict (vārdnīca) {} dict()
 5) Kas ir vārdnīca? atslēga, vērtība
-'
 """
 
 
 class AAA:      
-
-
     # definēju kostruktoru
     def __initi__(self):
         self.roma_sk={
