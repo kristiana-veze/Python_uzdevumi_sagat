@@ -12,4 +12,6 @@ class DATI:
         
         
         
-pirmais_ieraksts =DATI("klase203", "USA")
+pirmais_ieraksts =DATI("klase203", "Madona")
+pilseeta=pirmais_ieraksts.pilseta
+print(pilseeta)
